@@ -7,4 +7,4 @@ dummy-job:
  name: "my job"
  runs-on: ubuntu-latest
  steps:
-   - run: echo"coucou"
+   - run: echo "coucou"
